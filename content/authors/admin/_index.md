@@ -67,4 +67,4 @@ Working on crop models, especially on Decision Support System for Agrotechnology
 
 I love my work in the field of agronomy. My passion is also about making food production more sustainable, and in doing so contributing to a food secure future for the growing world population.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
