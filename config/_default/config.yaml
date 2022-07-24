@@ -5,7 +5,7 @@
 
 title: Adeel Ahmad # Website name
 baseurl: 'https://adeel.rbind.io' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
